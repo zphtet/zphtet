@@ -12,6 +12,8 @@
 - 📫 How to reach me **zinpainghtet.215108@gmail.com**
 
 - ⚡ Fun fact **I am Lazy.**
+  
+- My previous git acc zinphtet [https://github.com/zinphtet]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
