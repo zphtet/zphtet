@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **vue and other interesting things ..**
 
-- 👨‍💻 Some of my projects are available at [https://zph-portfolio.vercel.app/](https://zph-portfolio.vercel.app/)
+- 👨‍💻 Some of my projects are available at
 
 - 💬 Ask me about **react , next and node**
 
